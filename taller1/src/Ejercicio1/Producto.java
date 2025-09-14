@@ -1,3 +1,4 @@
+package Ejercicio1;
 public class Producto {
     //Propiedades o atributos
     String nombre;

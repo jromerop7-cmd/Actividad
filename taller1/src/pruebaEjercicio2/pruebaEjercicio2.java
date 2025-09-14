@@ -1,4 +1,10 @@
-package PACKAGE_NAME;
+package pruebaEjercicio2;
 
-public class PruebaEjercicio2 {
-}
+import Ejercicio2.Moto;
+
+public class pruebaEjercicio2{
+        public static void main(String[] args) {
+            Moto miMoto = new Moto();
+            System.out.println(miMoto.tipoPaquete);
+        }
+    }

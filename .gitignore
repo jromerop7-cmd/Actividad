@@ -151,3 +151,5 @@ hs_err_pid*
 pid de reproducción*
 
 # Fin de https://www.toptal.com/developers/gitignore/api/java,intellij
+.idea/
+

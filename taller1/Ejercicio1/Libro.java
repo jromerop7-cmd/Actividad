@@ -22,8 +22,8 @@ public class Libro {
 
     // 3. Método para mostrar los detalles del libro
     public void mostrarDetalles() {
-        System.out.println("📘 Título: " + titulo);
-        System.out.println("✍️ Autor: " + autor);
-        System.out.println("📄 Número de páginas: " + numeroPaginas);
+        System.out.println("Título: " + titulo);
+        System.out.println("Autor: " + autor);
+        System.out.println("Número de páginas: " + numeroPaginas);
     }
 }

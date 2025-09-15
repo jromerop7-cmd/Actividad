@@ -27,8 +27,8 @@ public class Bancaria {
 
     // Método para mostrar los detalles de la cuenta
     public void mostrarDetalles() {
-        System.out.println("🏦 Número de cuenta: " + numeroCuenta);
-        System.out.println("💰 Saldo: $" + saldo);
-        System.out.println("📂 Tipo de cuenta: " + tipoCuenta);
+        System.out.println("Número de cuenta: " + numeroCuenta);
+        System.out.println("Saldo: $" + saldo);
+        System.out.println("Tipo de cuenta: " + tipoCuenta);
     }
 }
